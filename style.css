@@ -16,3 +16,6 @@ nav {
 nav a:hover {
     color: #c45c26;
 }
+.hero {
+    position: relative;
+}
