@@ -19,3 +19,11 @@ nav a:hover {
 .hero {
     position: relative;
 }
+.badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #c45c26;
+    color: white;
+    padding: 0.25rem 0.5rem;
+}
