@@ -55,3 +55,8 @@ nav a:hover {
     padding: 1rem;
     background: #eee;
 }
+@media (max-width: 600px) {
+    .cards {
+        grid-template-columns: 1fr;
+    }
+}
